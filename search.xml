@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>First Post</title>
+    <url>/2021/10/06/First-Post/</url>
+    <content><![CDATA[<p>ok so idk what im doing but i thought this would be a good start. My current projects right now are as follows:</p>
+<ol>
+<li>School</li>
+<li>nameless Discord Bot</li>
+<li>Spending more time on random repos</li>
+<li>Going out of my comfortzone and doing things like this :D</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>I made a draft!</title>
+    <url>/2021/10/07/I-made-a-draft/</url>
+    <content><![CDATA[<p><a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript"></a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010" alt="Visual Studio Code"></a><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2. Week of 10-11</title>
+    <url>/2021/10/11/2-Week-of-10-11/</url>
+    <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></p>
+<ul>
+<li>namesless bot bugs<ul>
+<li>Soft error on welcome message</li>
+<li>Description for dog, cat and intro command invalid</li>
+</ul>
+</li>
+<li>Blog<ul>
+<li>Blog now uses my professional email</li>
+<li>We have tags now!</li>
+<li>oh and also a search menu B)</li>
+<li>not to mention an amazing copyright notice at the bottom of every post</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></p>
+<ul>
+<li>Learning about constructors<ul>
+<li>Practice using them</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>js</tag>
+        <tag>java</tag>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1. We&#39;re on github pages!</title>
+    <url>/2021/10/08/1-We-re-on-github-pages/</url>
+    <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a>Ok so now I have my test server for this blog home hosted and the main on github pages. I will probably update about every week idk we will see. Hopefully I don&#39;t forget about this project! My goals for this weekend is to maybe find an api for this website. Idk maybe I&#39;ll advertise this on my discord. Non the less I&#39;m very excited to start some new projects.</p>
+]]></content>
+  </entry>
+</search>
