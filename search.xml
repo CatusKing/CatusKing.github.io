@@ -19,7 +19,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2. Week of 10-11</title>
+    <title>2. Week of 10-10</title>
     <url>/2021/10/11/2-Week-of-10-11/</url>
     <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></p>
 <ul>
@@ -54,5 +54,27 @@
     <url>/2021/10/08/1-We-re-on-github-pages/</url>
     <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a>Ok so now I have my test server for this blog home hosted and the main on github pages. I will probably update about every week idk we will see. Hopefully I don&#39;t forget about this project! My goals for this weekend is to maybe find an api for this website. Idk maybe I&#39;ll advertise this on my discord. Non the less I&#39;m very excited to start some new projects.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>3. Week of 10-17</title>
+    <url>/2021/10/22/3-Week-of-10-17/</url>
+    <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></p>
+<h3 id="nameless-updates"><a href="#nameless-updates" class="headerlink" title="nameless updates!!!!"></a>nameless updates!!!!</h3><ul>
+<li>New api&#39;s<ul>
+<li>Aztro</li>
+<li>Love calculator</li>
+<li>Urban Dictionary</li>
+</ul>
+</li>
+<li>New commands for the api&#39;s</li>
+<li>Minor tweaks to the token.json file</li>
+<li>Some orginization for the index.js file</li>
+</ul>
+<p>I&#39;m going to start writing plans for the upcoming week to stay more organized. Also rip my spelling because the editor I use doesn&#39;t have spell check. Anyways on sunday I am moving so I don&#39;t see myself getting much done. As for the rest of the week based on motivation we&#39;ll see how much of nameless I can colsolidate to seperate files.<br><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
+]]></content>
+      <tags>
+        <tag>js</tag>
+        <tag>java</tag>
+      </tags>
   </entry>
 </search>
