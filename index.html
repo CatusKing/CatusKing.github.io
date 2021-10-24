@@ -49,7 +49,37 @@
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
-</head>
+<style type="text/css">
+.spoiler {
+  display: inline-flex;
+}
+p.spoiler {
+  display: flex;
+}
+.spoiler a {
+  pointer-events: none;
+}
+.spoiler-blur, .spoiler-blur > * {
+  transition: text-shadow .5s ease;
+}
+.spoiler .spoiler-blur, .spoiler .spoiler-blur > * {
+  color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+  text-shadow: 0 0 10px grey;
+  cursor: pointer;
+}
+.spoiler .spoiler-blur:hover, .spoiler .spoiler-blur:hover > * {
+  text-shadow: 0 0 5px grey;
+}
+.spoiler-box, .spoiler-box > * {
+  transition: color .5s ease,
+  background-color .5s ease;
+}
+.spoiler .spoiler-box, .spoiler .spoiler-box > * {
+  color: black;
+  background-color: black;
+  text-shadow: none;
+}</style></head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
   <div class="headband"></div>
@@ -208,12 +238,26 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
-      
 
-      <time title="Created: 2021-10-22 15:10:05 / Modified: 14:30:22" itemprop="dateCreated datePublished" datetime="2021-10-22T15:10:05-05:00">2021-10-22</time>
+      <time title="Created: 2021-10-22 15:10:05" itemprop="dateCreated datePublished" datetime="2021-10-22T15:10:05-05:00">2021-10-22</time>
     </span>
 
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>612</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
 </div>
 
         </div>
@@ -235,7 +279,11 @@
 <li>Minor tweaks to the token.json file</li>
 <li>Some orginization for the index.js file</li>
 </ul>
-<p>I&#39;m going to start writing plans for the upcoming week to stay more organized. Also rip my spelling because the editor I use doesn&#39;t have spell check. Anyways on sunday I am moving so I don&#39;t see myself getting much done. As for the rest of the week based on motivation we&#39;ll see how much of nameless I can colsolidate to seperate files.<br><a target="_blank" rel="noopener" href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
+<p>I&#39;m going to start writing plans for the upcoming week to stay more organized. Also rip my spelling because the editor I use doesn&#39;t have spell check. Anyways on sunday I am moving so I don&#39;t see myself getting much done. As for the rest of the week based on motivation we&#39;ll see how much of nameless I can colsolidate to seperate files.</p>
+<h3 id="Blog-update"><a href="#Blog-update" class="headerlink" title="Blog update!"></a>Blog update!</h3><p>We have 
+  <span class="spoiler" onclick="this.classList.toggle('spoiler')">
+    <span class="spoiler-blur ">spoilers</span>
+  </span> now!<br><a target="_blank" rel="noopener" href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
 
       
     </div>
@@ -288,15 +336,23 @@
 
       <time title="Created: 2021-10-11 08:42:51" itemprop="dateCreated datePublished" datetime="2021-10-11T08:42:51-05:00">2021-10-11</time>
     </span>
-      <span class="post-meta-item">
-        <span class="post-meta-item-icon">
-          <i class="far fa-calendar-check"></i>
-        </span>
-        <span class="post-meta-item-text">Edited on</span>
-        <time title="Modified: 2021-10-22 14:08:20" itemprop="dateModified" datetime="2021-10-22T14:08:20-05:00">2021-10-22</time>
-      </span>
 
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>232</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
 </div>
 
         </div>
@@ -376,12 +432,26 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
-      
 
-      <time title="Created: 2021-10-08 12:01:16 / Modified: 13:42:16" itemprop="dateCreated datePublished" datetime="2021-10-08T12:01:16-05:00">2021-10-08</time>
+      <time title="Created: 2021-10-08 12:01:16" itemprop="dateCreated datePublished" datetime="2021-10-08T12:01:16-05:00">2021-10-08</time>
     </span>
 
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>303</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
 </div>
 
         </div>
@@ -441,12 +511,26 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
-      
 
-      <time title="Created: 2021-10-07 18:14:31 / Modified: 18:02:51" itemprop="dateCreated datePublished" datetime="2021-10-07T18:14:31-05:00">2021-10-07</time>
+      <time title="Created: 2021-10-07 18:14:31" itemprop="dateCreated datePublished" datetime="2021-10-07T18:14:31-05:00">2021-10-07</time>
     </span>
 
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>0</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
 </div>
 
         </div>
@@ -506,12 +590,26 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
-      
 
-      <time title="Created: 2021-10-06 21:58:37 / Modified: 23:02:48" itemprop="dateCreated datePublished" datetime="2021-10-06T21:58:37-05:00">2021-10-06</time>
+      <time title="Created: 2021-10-06 21:58:37" itemprop="dateCreated datePublished" datetime="2021-10-06T21:58:37-05:00">2021-10-06</time>
     </span>
 
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>189</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>1 mins.</span>
+    </span>
 </div>
 
         </div>
@@ -561,6 +659,22 @@
     <i class="fa fa-heart"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Thomas Pachuta</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+      <span>Symbols count total: </span>
+    <span title="Symbols count total">1k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span>Reading time total &asymp;</span>
+    <span title="Reading time total">1 mins.</span>
+  </span>
 </div>
 
     </div>

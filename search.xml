@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>First Post</title>
-    <url>/2021/10/06/First-Post/</url>
-    <content><![CDATA[<p>ok so idk what im doing but i thought this would be a good start. My current projects right now are as follows:</p>
-<ol>
-<li>School</li>
-<li>nameless Discord Bot</li>
-<li>Spending more time on random repos</li>
-<li>Going out of my comfortzone and doing things like this :D</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>I made a draft!</title>
-    <url>/2021/10/07/I-made-a-draft/</url>
-    <content><![CDATA[<p><a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript"></a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010" alt="Visual Studio Code"></a><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></p>
+    <title>1. We&#39;re on github pages!</title>
+    <url>/2021/10/08/1-We-re-on-github-pages/</url>
+    <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a>Ok so now I have my test server for this blog home hosted and the main on github pages. I will probably update about every week idk we will see. Hopefully I don&#39;t forget about this project! My goals for this weekend is to maybe find an api for this website. Idk maybe I&#39;ll advertise this on my discord. Non the less I&#39;m very excited to start some new projects.</p>
 ]]></content>
   </entry>
   <entry>
@@ -50,12 +38,6 @@
       </tags>
   </entry>
   <entry>
-    <title>1. We&#39;re on github pages!</title>
-    <url>/2021/10/08/1-We-re-on-github-pages/</url>
-    <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a>Ok so now I have my test server for this blog home hosted and the main on github pages. I will probably update about every week idk we will see. Hopefully I don&#39;t forget about this project! My goals for this weekend is to maybe find an api for this website. Idk maybe I&#39;ll advertise this on my discord. Non the less I&#39;m very excited to start some new projects.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>3. Week of 10-17</title>
     <url>/2021/10/22/3-Week-of-10-17/</url>
     <content><![CDATA[<p><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></p>
@@ -70,11 +52,33 @@
 <li>Minor tweaks to the token.json file</li>
 <li>Some orginization for the index.js file</li>
 </ul>
-<p>I&#39;m going to start writing plans for the upcoming week to stay more organized. Also rip my spelling because the editor I use doesn&#39;t have spell check. Anyways on sunday I am moving so I don&#39;t see myself getting much done. As for the rest of the week based on motivation we&#39;ll see how much of nameless I can colsolidate to seperate files.<br><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
+<p>I&#39;m going to start writing plans for the upcoming week to stay more organized. Also rip my spelling because the editor I use doesn&#39;t have spell check. Anyways on sunday I am moving so I don&#39;t see myself getting much done. As for the rest of the week based on motivation we&#39;ll see how much of nameless I can colsolidate to seperate files.</p>
+<h3 id="Blog-update"><a href="#Blog-update" class="headerlink" title="Blog update!"></a>Blog update!</h3><p>We have 
+  <span class="spoiler" onclick="this.classList.toggle('spoiler')">
+    <span class="spoiler-blur ">spoilers</span>
+  </span> now!<br><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
 ]]></content>
       <tags>
         <tag>js</tag>
         <tag>java</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>First Post</title>
+    <url>/2021/10/06/First-Post/</url>
+    <content><![CDATA[<p>ok so idk what im doing but i thought this would be a good start. My current projects right now are as follows:</p>
+<ol>
+<li>School</li>
+<li>nameless Discord Bot</li>
+<li>Spending more time on random repos</li>
+<li>Going out of my comfortzone and doing things like this :D</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>I made a draft!</title>
+    <url>/2021/10/07/I-made-a-draft/</url>
+    <content><![CDATA[<p><a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript"></a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010" alt="Visual Studio Code"></a><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></p>
+]]></content>
   </entry>
 </search>
