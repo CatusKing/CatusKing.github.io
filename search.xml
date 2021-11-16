@@ -134,4 +134,13 @@
         <tag>trevor project</tag>
       </tags>
   </entry>
+  <entry>
+    <title>7. Week of 11-14</title>
+    <url>/2021/11/16/7-Week-of-11-14/</url>
+    <content><![CDATA[<h2 id="New-Discord-Bot"><a href="#New-Discord-Bot" class="headerlink" title="New Discord Bot "></a>New Discord Bot <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></h2><p>Ok so I created a new Discord bot called <a href="https://github.com/CatusKing/Quotes-Bot"><em>quotes.db</em></a>. The bot’s purpose is to allow random mebers of any server quote anything someone else says using slash commands. The bot as of right now is pretty fleshed out when it comes to code and as well is a very simple bot. I think I&#39;m going to try using ts for this bot the next time I update it. The links for the bot are as follows. <a href="http://quotes.catusking.com/">Bot Invite</a> and <a href="https://discord.gg/YEYbkYAhqm">Discord Invite</a>. The discord invite is so you ccan follow the channel all the quotes go into.</p>
+]]></content>
+      <tags>
+        <tag>js</tag>
+      </tags>
+  </entry>
 </search>
