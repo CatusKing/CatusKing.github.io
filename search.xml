@@ -55,8 +55,8 @@
       <tags>
         <tag>mental health</tag>
         <tag>blog</tag>
-        <tag>java</tag>
         <tag>school</tag>
+        <tag>java</tag>
       </tags>
   </entry>
   <entry>
@@ -86,8 +86,8 @@
 ]]></content>
       <tags>
         <tag>blog</tag>
-        <tag>js</tag>
         <tag>java</tag>
+        <tag>js</tag>
       </tags>
   </entry>
   <entry>
@@ -112,20 +112,8 @@
   </span> now!<br><a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a>UGH this week has been so boring when it comes to learning Java. All we are doing in class is going over &amp;&amp;, ||, and if else statements. It&#39;s all too basic!</p>
 ]]></content>
       <tags>
-        <tag>js</tag>
         <tag>java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>5. Week of 10-31</title>
-    <url>/2021/11/01/5-Week-of-10-31/</url>
-    <content><![CDATA[<h2 id="New-Laptop"><a href="#New-Laptop" class="headerlink" title="New Laptop!"></a>New Laptop!</h2><p>I finially got my new laptop!!!! Most of my week has been spent on gaming lmao</p>
-<h2 id=""><a href="#" class="headerlink" title=""></a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></h2><p>Tried some new api&#39;s but ended up not using them :(</p>
-<h2 id="Java"><a href="#Java" class="headerlink" title="Java "></a>Java <a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></h2><p>More learning about contructors and a test on overloads. Otherwise nothing else. A boring week.</p>
-]]></content>
-      <tags>
         <tag>js</tag>
-        <tag>java</tag>
       </tags>
   </entry>
   <entry>
@@ -154,9 +142,31 @@
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Transphobia">Transphobia is a collection of ideas and phenomena that encompass a range of negative attitudes, feelings, or actions towards transgender people or transness in general</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">Male to Female</span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;">Female to Male</span><a href="#fnref:3" rev="footnote"> ↩</a></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">4.</span><span style="display: inline-block; vertical-align: top;">Anyone in which fit under the umbrella of transgender or non-genderconformative</span><a href="#fnref:4" rev="footnote"> ↩</a></li><li id="fn:5"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">5.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Cisgender">Cisgender describes a person whose gender identity is the same as their sex assigned at birth. The word cisgender is the antonym of transgender. The prefix cis- is not an acronym or abbreviation of another word; it is derived from Latin meaning on this side of.</a></span><a href="#fnref:5" rev="footnote"> ↩</a></li><li id="fn:6"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">6.</span><span style="display: inline-block; vertical-align: top;"><a href="https://uwaterloo.ca/centre-for-teaching-excellence/trigger#:~:text=A%20trigger%20warning%20is%20a,clip%2C%20or%20piece%20of%20text.">A <strong>Trigger Warning</strong> is a statement made prior to sharing potentially disturbing content. That content might include graphic references to topics such as sexual abuse, self-harm, violence, eating disorders, and so on, and can take the form of an image, video clip, audio clip, or piece of text.</a></span><a href="#fnref:6" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       <tags>
         <tag>blog</tag>
-        <tag>js</tag>
         <tag>java</tag>
+        <tag>js</tag>
         <tag>reading</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>5. Week of 10-31</title>
+    <url>/2021/11/01/5-Week-of-10-31/</url>
+    <content><![CDATA[<h2 id="New-Laptop"><a href="#New-Laptop" class="headerlink" title="New Laptop!"></a>New Laptop!</h2><p>I finially got my new laptop!!!! Most of my week has been spent on gaming lmao</p>
+<h2 id=""><a href="#" class="headerlink" title=""></a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="Node.JS"></a></h2><p>Tried some new api&#39;s but ended up not using them :(</p>
+<h2 id="Java"><a href="#Java" class="headerlink" title="Java "></a>Java <a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Java-c74634?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java"></a></h2><p>More learning about contructors and a test on overloads. Otherwise nothing else. A boring week.</p>
+]]></content>
+      <tags>
+        <tag>java</tag>
+        <tag>js</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>6. Week of 11-7</title>
+    <url>/2021/11/08/6-Week-of-11-7/</url>
+    <content><![CDATA[<h2 id="Trevor-Project-Fundraiser"><a href="#Trevor-Project-Fundraiser" class="headerlink" title="Trevor Project Fundraiser"></a>Trevor Project Fundraiser</h2><p>I dont have motivation to do the blog as of rn so if i do i&#39;ll write abt the plan for the fundariser<br>11/11/21</p>
+<p>still don&#39;t have the motivation :(<br>11/12/21</p>
+]]></content>
+      <tags>
+        <tag>trevor project</tag>
       </tags>
   </entry>
   <entry>
@@ -169,16 +179,6 @@
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">Non-Binary: Non-binary is an umbrella term for people whose gender identity doesn't sit comfortably with 'man' or 'woman'. Non-binary identities are varied and can include people who identify with some aspects of binary identities, while others reject them entirely. <a href="https://www.stonewall.org.uk/about-us/news/10-ways-step-ally-non-binary-people#:~:text=Non%2Dbinary%20is%20an%20umbrella,while%20others%20reject%20them%20entirely.">ref</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">Maverique is a gender identity that falls under the nonbinary umbrella term. It is defined as an identity that is not the absence of gender, or an apathy towards gender, but a present feeling of gender. This feeling of gender is completely independent from male, female, neutral, or anything derived from any of them. However, maveriques can be multigender with their other genders being related to maleness, femaleness, or neutrality. <a href="https://nonbinary.wiki/wiki/Maverique">ref</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       <tags>
         <tag>js</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>6. Week of 11-7</title>
-    <url>/2021/11/08/6-Week-of-11-7/</url>
-    <content><![CDATA[<h2 id="Trevor-Project-Fundraiser"><a href="#Trevor-Project-Fundraiser" class="headerlink" title="Trevor Project Fundraiser"></a>Trevor Project Fundraiser</h2><p>I dont have motivation to do the blog as of rn so if i do i&#39;ll write abt the plan for the fundariser<br>11/11/21</p>
-<p>still don&#39;t have the motivation :(<br>11/12/21</p>
-]]></content>
-      <tags>
-        <tag>trevor project</tag>
       </tags>
   </entry>
   <entry>
