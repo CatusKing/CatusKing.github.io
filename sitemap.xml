@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://catusking.github.io/2022/01/11/15-Week-of-1-9/</loc>
+    
+    <lastmod>2022-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://catusking.github.io/2022/01/08/Online-Friends/</loc>
     
     <lastmod>2022-01-09</lastmod>
@@ -184,7 +193,7 @@
 
   <url>
     <loc>https://catusking.github.io/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,91 +201,105 @@
   
   <url>
     <loc>https://catusking.github.io/tags/mental-health/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/blog/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/school/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/java/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/js/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/reading/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/trevor-project/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/san-salvador/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/el-salvador/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/trip/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/vacation/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/hse/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://catusking.github.io/tags/news/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catusking.github.io/tags/hosting/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catusking.github.io/tags/gender/</loc>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
