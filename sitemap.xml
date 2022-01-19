@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.catusking.com/404.html</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.catusking.com/2022/01/11/15-Week-of-1-9/</loc>
     
     <lastmod>2022-01-14</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://blog.catusking.com/2021/12/28/13-Week-of-12-26/</loc>
     
     <lastmod>2022-01-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.catusking.com/404/</loc>
-    
-    <lastmod>2022-01-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
