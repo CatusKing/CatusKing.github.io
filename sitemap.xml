@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.catusking.com/2022/04/12/25-28-Week-of-4-10/</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.catusking.com/nameless/</loc>
+    
+    <lastmod>2022-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.catusking.com/2022/03/13/24-Week-of-3-13/</loc>
     
     <lastmod>2022-03-18</lastmod>
@@ -77,15 +95,6 @@
     <loc>https://blog.catusking.com/2022/02/01/18-Week-of-1-30/</loc>
     
     <lastmod>2022-02-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.catusking.com/nameless/</loc>
-    
-    <lastmod>2022-02-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -301,7 +310,7 @@
 
   <url>
     <loc>https://blog.catusking.com/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -309,161 +318,161 @@
   
   <url>
     <loc>https://blog.catusking.com/tags/mental-health/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/blog/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/school/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/java/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/hosting/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/gender/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/bitcoin/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/bitcoin-mining/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/trans/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/current-events/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/opinion/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/js/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/Mental-Health/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/ukraine/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/concert/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/reading/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/trevor-project/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/san-salvador/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/el-salvador/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/trip/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/vacation/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/hse/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.catusking.com/tags/news/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
