@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.catusking.com/Hidden-Blog/</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.catusking.com/2022/04/14/29-Week-of-4-17/</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.catusking.com/2022/04/12/25-28-Week-of-4-10/</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -23,15 +41,6 @@
     <loc>https://blog.catusking.com/2022/03/13/24-Week-of-3-13/</loc>
     
     <lastmod>2022-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.catusking.com/Hidden-Blog/</loc>
-    
-    <lastmod>2022-03-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
