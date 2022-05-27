@@ -104,7 +104,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/CatusKing/CatusKing.github.io
-  branch: main
+  branch: release
 
 # Spoiler
 spoiler:
