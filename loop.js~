@@ -1,0 +1,8 @@
+setInterval(() => {
+  const { exec } = require('child_process');
+  exec('git pull', (err) => {
+    if (err) console.log(err);
+  });
+}, 600000);
+
+
