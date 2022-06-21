@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.catusking.com/2022/06/17/36-Week-of-6-12/</loc>
+    <loc>https://blog.catusking.com/2022/06/21/38-Week-of-6-19/</loc>
     
-    <lastmod>2022-06-17</lastmod>
+    <lastmod>2022-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.catusking.com/2022/06/21/37-Week-of-6-12/</loc>
+    
+    <lastmod>2022-06-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
