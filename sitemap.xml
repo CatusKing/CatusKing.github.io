@@ -646,6 +646,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.catusking.com/tags/sotw/</loc>
+    <lastmod>2022-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
 </urlset>
