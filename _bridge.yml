@@ -2,7 +2,7 @@
 editorFontSize: 14
 # All posts page.
 post_list_itemsPerPage: 7
-post_list_showCategories: true
+post_list_showCategories: false
 post_list_showTags: true
 # All pages page.
 page_list_itemsPerPage: 7
